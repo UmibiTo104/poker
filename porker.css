@@ -1,9 +1,10 @@
 body{
-    background: url(porker_table.jpg) repeat-y
+    background: url("istockphoto-1136613719-1024x1024.jpg") repeat-y
     center bottom/cover;
 }
 .face{
     color:antiquewhite;
     font-size: 40px;
     text-align: center;
+
 }
