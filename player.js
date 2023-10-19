@@ -52,7 +52,7 @@ export default class Player {
         name = "red.png";
       }
       // カードの画像をセット
-      this.nodes[index].setAttribute("src", "images/" + name);
+      this.nodes[index].setAttribute("src", name);
     });
   }
 
