@@ -1,5 +1,5 @@
-import Player from "./player.js";
-import Pair from "./pair.js";
+import Player from "player.js";
+import Pair from "pair.js";
 /**
  * Com クラス
  */
