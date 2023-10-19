@@ -1,8 +1,8 @@
-import Player from "./player.js";
-import Com from "./com.js";
-import Card from "./card.js";
-import Pair from "./pair.js";
-import Util from "./util.js";
+import Player from "player.js";
+import Com from "com.js";
+import Card from "card.js";
+import Pair from "pair.js";
+import Util from "util.js";
 /**
  * Game クラス
  */
